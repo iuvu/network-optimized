@@ -443,6 +443,6 @@ main() {
 }
 
 # 脚本开始
-print_info "TCP/IP & BBR  智能优化脚本启动"
+print_info "TCP/IP & BBR 智能优化脚本启动"
 print_info "正在自动检测系统配置..."
 main
