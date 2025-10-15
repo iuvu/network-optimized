@@ -414,7 +414,7 @@ main() {
         
         case $choice in
             1)
-                print_info "开始安装TCP/BBR优化..."
+                print_info "开始安装TCP/IP & BBR优化..."
                 install_bbr
                 check_bbr_status
                 
@@ -443,6 +443,6 @@ main() {
 }
 
 # 脚本开始
-print_info "TCP/BBR 智能优化脚本启动"
+print_info "TCP/IP & BBR  智能优化脚本启动"
 print_info "正在自动检测系统配置..."
 main
