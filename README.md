@@ -1,3 +1,3 @@
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/sxrem/network-optimized/main/deploy.sh)
+bash <(curl -sL https://raw.githubusercontent.com/iuvu/network-optimized/main/deploy.sh)
 ```
